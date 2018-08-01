@@ -13,7 +13,7 @@ gem "rubyzip", '~> 1.2.0'
 gem "nokogiri", '~> 1.6.7.2'
 gem "activesupport"
 gem "redis", '~> 3.3.0'
-gem "json", '~> 2.1.0'
+gem "json", '~> 1.8.3'
 gem "rack_csrf", '~> 2.5.0'
 gem "rack-ssl", '~> 1.4.1'
 gem "rufus-scheduler", '~> 3.2.0'
