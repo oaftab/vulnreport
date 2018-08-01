@@ -106,7 +106,6 @@ GEM
     rack_csrf (2.5.0)
       rack (>= 1.1.0)
     redis (3.3.0)
-    rake
     rforce (0.13)
       builder (~> 3.0)
       oauth (~> 0.4)
@@ -169,6 +168,7 @@ DEPENDENCIES
   pdfkit (~> 0.8.2)
   pg (~> 0.18.4)
   pony (~> 1.11)
+  rake
   rack-ssl (~> 1.4.1)
   rack_csrf (~> 2.5.0)
   redis (~> 3.3.0)
